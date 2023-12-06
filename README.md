@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Alura+ é um combo dos cursos da alura e alura lingua.
 
-- [Acesse o projeto finalizado, online](https://#)
+- [Acesse o projeto finalizado, online](https://dokatec.github.io/alura_plus/)
 
 - [Assistir aulas](https://#)
 
